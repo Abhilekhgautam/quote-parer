@@ -5,7 +5,7 @@ Given a input file, prints the contents inside every double inverted comma.  In 
 
 # Build
 ```cpp
-g++ -o main main.cpp
+g++ -o main main.cpp -std=c++17
 ```
 
 # Usage
